@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "base_track": "Naraku",
+  "base_artist": "Fumage",
+  "createdAt": "2026-02-16T14:57:30.948815Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Naraku no Hana",
+      "artist": "Shimamiya Eiko",
+      "has_synced": true,
+      "path": "select/01_Naraku_no_Hana_Shimamiya_Eiko.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Riverside Lovers (Naraku no Koi)",
+      "artist": "Sumire Uesaka",
+      "has_synced": false,
+      "path": "select/02_Riverside_Lovers_(Naraku_no_Koi)_Sumire_Uesaka.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Naraku no Hana",
+      "artist": "Eiko Shimamiya",
+      "has_synced": true,
+      "path": "select/03_Naraku_no_Hana_Eiko_Shimamiya.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "奈落 (Naraku)",
+      "artist": "Knosis",
+      "has_synced": false,
+      "path": "select/04_奈落_(Naraku)_Knosis.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Naraku",
+      "artist": "Halo at yojohan",
+      "has_synced": true,
+      "path": "select/05_Naraku_Halo_at_yojohan.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Naraku no Soko (Remix)",
+      "artist": "Laputa",
+      "has_synced": false,
+      "path": "select/06_Naraku_no_Soko_(Remix)_Laputa.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Naraku No Hana (Instrumental)",
+      "artist": "Eiko Shimamiya",
+      "has_synced": true,
+      "path": "select/07_Naraku_No_Hana_(Instrumental)_Eiko_Shimamiya.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "The Flower of Hell ~Naraku no Hana~",
+      "artist": "Dima Lancaster",
+      "has_synced": false,
+      "path": "select/08_The_Flower_of_Hell_~Naraku_no_Hana~_Dima_Lancaster.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Naraku",
+      "artist": "Fumage",
+      "has_synced": false,
+      "path": "select/pl_01_Naraku_Fumage.txt"
+    }
+  ]
+}
